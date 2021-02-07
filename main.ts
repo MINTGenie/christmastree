@@ -79,5 +79,4 @@ basic.forever(function () {
 })
 basic.forever(function () {
     basic.showIcon(IconNames.SmallDiamond)
-    basic.showIcon(IconNames.Target)
 })
